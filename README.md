@@ -252,7 +252,7 @@ The Arduino is programmed to read inputs from the sensors and respond accordingl
 The ESP8266 NodeMCU is programmed to control lights via Wi-Fi using a phone.
 
 **Code Link:**  
-[ESP8266 Code](final.ino)
+[ESP8266 Code](Blink.ino)
 
 ### Data Types Used
 
@@ -270,10 +270,6 @@ The ESP8266 NodeMCU is programmed to control lights via Wi-Fi using a phone.
 - **BLYNK_AUTH_TOKEN:** 93rVaCGyT2yKeTtMfHAY7t3OWUQzdjjb
 
 The Blynk app connects to the NodeMCU via Wi-Fi using the above credentials. Components such as LEDs and relays are controlled remotely through the app.
-
-**Code Link:**
-
-[BLYNK CODE](Blink.ino)
 
 ---
 
